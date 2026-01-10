@@ -1,0 +1,28 @@
+# SGR 1935+2154 Periodicity Search - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Scientific Libraries
+numpy>=1.19.0              # Numerical computing and array operations
+pandas>=1.0.0              # Data manipulation and analysis
+scipy>=1.5.0               # Scientific computing and signal processing
+matplotlib>=3.1.0          # Data visualization
+
+# Astronomy
+astropy>=4.0.0             # Astronomical time series and utilities
+gbm>=1.0.0                 # Fermi GBM time utilities
+
+# Machine Learning / Preprocessing
+scikit-learn>=0.24.0       # Data preprocessing and scaling
+
+# Performance
+numba>=0.51.0              # JIT compilation for performance
+
+# Data I/O
+openpyxl>=3.0.0            # Excel file support
+
+# Interactive Environment
+jupyter>=1.0.0             # Jupyter notebook
+ipython>=7.0.0             # Enhanced Python shell
+
+# Optional but recommended
+seaborn>=0.11.0            # Statistical data visualization
