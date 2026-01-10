@@ -1,14 +1,12 @@
 """
-Periodicity Analysis Module for SGR 1935+2154
+Core helpers for the SGR 1935+2154 periodicity study (code-backup branch).
 
-This module provides core functions for analyzing periodicities in burst time series data
-using various statistical methods including Lomb-Scargle periodograms, Pearson chi-square,
-and C-statistic analysis.
-
-Reference: Xie et al. 2022, MNRAS 517, 3854-3863
+This module belongs to the reproducibility bundle for
 "Revisit the periodicity of SGR J1935+2154 bursts with updated sample"
-https://arxiv.org/abs/2205.08003
-DOI: 10.1093/mnras/stac2918
+(Xie et al. 2022, MNRAS 517, 3854-3863; https://doi.org/10.1093/mnras/stac2918).
+Use it together with PeriodicitySearch.ipynb to recreate the figures/statistics that
+appear in the paper. The current branch reorganizes and polishes the original notebook
+with AI assistance; the untouched baseline remains at commit e4d0aae38060d52573491dfb39223e54697620c7.
 """
 
 import numpy as np
