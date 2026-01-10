@@ -7,15 +7,15 @@
 
 ## 📋 论文参考 - 主要出版物
 
-### **中间强度磁星SGR 1935+2154的周期性**
+### **重新审视SGR J1935+2154爆发的周期性与更新样本**
 
-**作者**: Zou et al. 2022
+**第一作者**: 谢生伦 (Xie, Sheng-Lun) 等 2022
 
 **期刊**: 英国皇家天文学会月报（Monthly Notices of the Royal Astronomical Society）
 
-**卷号**: 517 | **页码**: 3854-3865 | **年份**: 2022
+**卷号**: 517 | **页码**: 3854-3863 | **年份**: 2022
 
-**DOI**: [10.1093/mnras/stac2816](https://doi.org/10.1093/mnras/stac2816)
+**DOI**: [10.1093/mnras/stac2918](https://doi.org/10.1093/mnras/stac2918)
 
 **链接**:
 - 🔗 **NASA ADS**: https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3854X/abstract

@@ -5,7 +5,10 @@ This module provides core functions for analyzing periodicities in burst time se
 using various statistical methods including Lomb-Scargle periodograms, Pearson chi-square,
 and C-statistic analysis.
 
-Reference: https://arxiv.org/abs/2205.08003
+Reference: Xie et al. 2022, MNRAS 517, 3854-3863
+"Revisit the periodicity of SGR J1935+2154 bursts with updated sample"
+https://arxiv.org/abs/2205.08003
+DOI: 10.1093/mnras/stac2918
 """
 
 import numpy as np

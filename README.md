@@ -7,15 +7,15 @@
 
 ## 📋 Paper Reference - PRIMARY PUBLICATION
 
-### **Periodicities in the intermediate magnetar SGR 1935+2154**
+### **Revisit the periodicity of SGR J1935+2154 bursts with updated sample**
 
-**Authors**: Zou et al. 2022
+**Authors**: Xie, Sheng-Lun et al. 2022 (First Author)
 
 **Journal**: Monthly Notices of the Royal Astronomical Society
 
-**Volume**: 517 | **Pages**: 3854-3865 | **Year**: 2022
+**Volume**: 517 | **Pages**: 3854-3863 | **Year**: 2022
 
-**DOI**: [10.1093/mnras/stac2816](https://doi.org/10.1093/mnras/stac2816)
+**DOI**: [10.1093/mnras/stac2918](https://doi.org/10.1093/mnras/stac2918)
 
 **Links**:
 - 🔗 **ADS**: https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3854X/abstract
@@ -346,9 +346,9 @@ plt.show()
 
 ### Original Paper
 
-**Zou et al. (2022)** - Periodicities in the intermediate magnetar SGR 1935+2154
-- MNRAS, Vol. 517, pp. 3854-3865
-- DOI: 10.1093/mnras/stac2816
+**Xie, Sheng-Lun et al. (2022)** - Revisit the periodicity of SGR J1935+2154 bursts with updated sample
+- MNRAS, Vol. 517, pp. 3854-3863
+- DOI: 10.1093/mnras/stac2918
 - arXiv: 2205.08003
 - ADS: 2022MNRAS.517.3854X
 
@@ -385,14 +385,14 @@ plt.show()
 ### Citation
 
 ```bibtex
-@article{Zou2022,
-  title={Periodicities in the intermediate magnetar SGR 1935+2154},
-  author={Zou, et al.},
+@article{Xie2022,
+  title={Revisit the periodicity of SGR J1935+2154 bursts with updated sample},
+  author={Xie, Sheng-Lun and others},
   journal={MNRAS},
   volume={517},
-  pages={3854--3865},
+  pages={3854--3863},
   year={2022},
-  doi={10.1093/mnras/stac2816}
+  doi={10.1093/mnras/stac2918}
 }
 ```
 
