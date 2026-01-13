@@ -35,7 +35,7 @@
 - **DOI**: [10.1093/mnras/stac2918](https://doi.org/10.1093/mnras/stac2918)
 
 ```bibtex
-@article{Xie2022,
+@article{Xie2022mnras,
   title={Revisit the periodicity of SGR J1935+2154 bursts with updated sample},
   author={Xie, Sheng-Lun and others},
   journal={Monthly Notices of the Royal Astronomical Society},
