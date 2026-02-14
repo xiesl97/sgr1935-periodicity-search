@@ -11,7 +11,7 @@
 
 **说明**：本分支是基于 AI 生成的代码进行修改和完善的。
 
-如果需要查看原始main分支代码，请访问 **[原始分支](https://github.com/xiesl97/PeriodSearch-SGR1935/tree/e4d0aae38060d52573491dfb39223e54697620c7)**。
+如果需要查看原始main分支代码，请访问 **[原始分支](https://github.com/xiesl97/sgr1935-periodicity-search/tree/e4d0aae38060d52573491dfb39223e54697620c7)**。
 
 ## 快速开始
 

@@ -11,7 +11,7 @@ This repository serves as a code backup for parts of the paper **"Revisit the pe
 
 **Note**: The code in this branch has been reorganized and improved with AI assistance based on the original codebase.
 
-If you need to view the original, unmodified code, please visit the **[original commit](https://github.com/xiesl97/PeriodSearch-SGR1935/tree/e4d0aae38060d52573491dfb39223e54697620c7)**.
+If you need to view the original, unmodified code, please visit the **[original commit](https://github.com/xiesl97/sgr1935-periodicity-search/tree/e4d0aae38060d52573491dfb39223e54697620c7)**.
 
 ## Quick Start
 
